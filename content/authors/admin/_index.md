@@ -82,7 +82,3 @@ Due to the pandemic, I have been unable to travel to Wollongong. After a year of
 <div class="article-style">
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 </div>
-
-<div>
-  <a class="background-img" href="#img1"><img id="img1" src="assets/media/mountains.jpeg" /></a>
-</div>
