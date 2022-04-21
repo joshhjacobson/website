@@ -75,10 +75,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate in the Centre for Environmental Informatics, working with [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/). My thesis research is focused on multivariate spatial and spatiotemporal statistical modeling with application to large remote sensing datasets for environmental processes. Broadly, I am interested in the spatiotemporal nature of biodiversity and how plant and animal communities responded to environmental change.
+I am a second year PhD candidate in the Centre for Environmental Informatics at the University of Wollongong. Under the supervision of [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis research is focused on multivariate spatial and spatiotemporal statistical modeling with application to large remote sensing datasets for environmental processes. Broadly, I am interested in the spatiotemporal nature of biodiversity and how plant and animal communities responded to environmental change.
 
-Due to the pandemic, I have been unable to travel to the University of Wollongong. After a year of remote study, I began a leave of absence from my PhD that will continue until travel resumes. In the meantime, I am engaged as a Data Scientist at [Jupiter Intelligence](https://jupiterintel.com/), working on extreme value problems for climate risk analysis.
-
-In addition to doing research, I like to spend my time mountain biking, skiing, advocating for nature, and brewing kombucha.
+Due to the pandemic, I have been unable to travel to Wollongong. After a year of remote study, I began a leave of absence from my PhD and will resume when travel is possible. In the meantime, I am engaged as a Data Scientist at [Jupiter Intelligence](https://jupiterintel.com/) working on extreme value problems for climate risk analysis.
 
 {{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/jacobson_cv.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
