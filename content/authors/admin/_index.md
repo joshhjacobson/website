@@ -79,9 +79,6 @@ I am a second year PhD candidate in the Centre for Environmental Informatics at 
 
 Due to the pandemic, I have been unable to travel to Wollongong. After a year of remote study, I began a leave of absence from my PhD and will resume when travel is possible. In the meantime, I am engaged as a Data Scientist at [Jupiter Intelligence](https://jupiterintel.com/) working on extreme value problems for climate risk analysis.
 
-<!-- {{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/jacobson_cv.pdf" "newtab" >}}here{{< /staticref >}} to download my CV. -->
-
 <div class="article-style">
-  {{ $person_page.Content }}
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 </div>
