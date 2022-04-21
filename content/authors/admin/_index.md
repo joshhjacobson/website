@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Josh Jacobson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Centre for Environmental Informatics
+  url: https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/
+- name: University of Wollongong
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial ecology, spatiotemporal statistics, and forest dynamics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial ecology
+- Spatiotemporal statistics
+- Forest dynamics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Statistics
+    institution: University of Wollongong
+    year: In progress
+  - course: MS in Applied Mathematics
+    institution: University of Colorado
+    year: 2020
+  - course: BS in Applied Mathematics
+    institution: University of Colorado
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +43,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:joshj@uow.edu.au"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/joshhjacobson
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/joshhjacobson/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=MlK_mtoAAAAJ
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4418-2208
+- icon: github
+  icon_pack: fab
+  link: https://github.com/joshhjacobson
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +75,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in the Centre for Environmental Informatics, working with [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/). My thesis research is focused on multivariate spatial and spatiotemporal statistical modeling with application to large remote sensing datasets for environmental processes. Broadly, I am interested in the spatiotemporal nature of biodiversity and how plant and animal communities responded to environmental change.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Due to the pandemic, I have been unable to travel to the University of Wollongong. After a year of remote study, I began a leave of absence from my PhD that will continue until travel resumes. In the meantime, I am engaged as a Data Scientist at [Jupiter Intelligence](https://jupiterintel.com/), working on extreme value problems for climate risk analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In addition to doing research, I like to spend my time mountain biking, skiing, advocating for nature, and brewing kombucha.
+
+{{< icon name="download" pack="fas" >}} Click {{< staticref "uploads/jacobson_cv.pdf" "newtab" >}}here{{< /staticref >}} to download my CV.
