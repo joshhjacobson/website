@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: spruce
-  theme_night: minimal
   font: custom_font
   font_size: L
 

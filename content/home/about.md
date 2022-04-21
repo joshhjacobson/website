@@ -19,3 +19,6 @@ title: " "
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+<div>
+  <a class="background-img" href="#img1"><img id="img1" src="assets/media/mountains.jpeg" /></a>
+</div>
