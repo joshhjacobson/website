@@ -18,23 +18,23 @@ organizations:
 bio: My research interests include spatial ecology, spatiotemporal statistics, and forest dynamics.
 
 # Interests to show in About widget
-interests:
-- Spatial ecology
-- Spatiotemporal statistics
-- Forest dynamics
+# interests:
+# - Spatial ecology
+# - Spatiotemporal statistics
+# - Forest dynamics
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Applied Statistics
-    institution: University of Wollongong
-    year: In progress
-  - course: MS in Applied Mathematics
-    institution: University of Colorado
-    year: 2020
-  - course: BS in Applied Mathematics
-    institution: University of Colorado
-    year: 2019
+# education:
+#   courses:
+#   - course: PhD in Applied Statistics
+#     institution: University of Wollongong
+#     year: In progress
+#   - course: MS in Applied Mathematics
+#     institution: University of Colorado
+#     year: 2020
+#   - course: BS in Applied Mathematics
+#     institution: University of Colorado
+#     year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
