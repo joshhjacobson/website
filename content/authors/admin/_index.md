@@ -77,7 +77,7 @@ highlight_name: true
 
 I am a second year PhD candidate in the Centre for Environmental Informatics at the University of Wollongong. Under the supervision of [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis research is focused on multivariate spatial and spatiotemporal statistical modeling with application to large remote sensing datasets for environmental processes. Broadly, I am interested in the spatiotemporal nature of biodiversity and how plant and animal communities respond to environmental change.
 
-Due to the pandemic, I have been unable to travel to Wollongong. After a year of remote study, I began a leave of absence from my PhD and will resume when travel is possible. In the meantime, I am engaged as a data scientist at [Jupiter Intelligence](https://jupiterintel.com/) working on extreme value problems for climate risk analysis.
+Previously, I was a data science consultant at [Jupiter Intelligence](https://jupiterintel.com/) developing statistical extreme value models for climate risk analysis.
 
 <div class="article-style">
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
