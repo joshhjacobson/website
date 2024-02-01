@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a second-year PhD candidate in the Centre for Environmental Informatics at the University of Wollongong. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my dissertation is focused on multivariate spatial and spatio-temporal statistical modeling with application to large remote sensing datasets for environmental processes. Broadly, I am interested in the spatio-temporal nature of global environmental change.
+I'm a third-year PhD candidate in the School of Mathematics and Applied Statistics at the University of Wollongong. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis is focused on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. Broadly, I'm interested in the spatio-temporal nature of global environmental change.
 
 Previously, I was a data science consultant at [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis.
 
