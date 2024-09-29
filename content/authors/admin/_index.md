@@ -6,7 +6,7 @@ title: Josh Jacobson
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,7 +15,7 @@ organizations:
 - name: University of Wollongong
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Applied Statistics.
+bio: Ph.D. Candidate in Applied Statistics.
 
 # Interests to show in About widget
 # interests:
@@ -26,7 +26,7 @@ bio: PhD Candidate in Applied Statistics.
 # Education to show in About widget
 # education:
 #   courses:
-#   - course: PhD in Applied Statistics
+#   - course: Ph.D. in Applied Statistics
 #     institution: University of Wollongong
 #     year: In progress
 #   - course: MS in Applied Mathematics
@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:joshj@uow.edu.au"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/joshhjacobson
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/joshhjacobson
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joshhjacobson/
@@ -64,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/jacobson_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,10 +75,14 @@ email: ""
 highlight_name: true
 ---
 
-I'm a third-year PhD candidate in the School of Mathematics and Applied Statistics at the University of Wollongong. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis is focused on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. Broadly, I'm interested in the spatio-temporal nature of global environmental change.
+I'm a final-year Ph.D. candidate in the School of Mathematics and Applied Statistics at the University of Wollongong. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis is focused on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. Broadly, I'm interested in the spatio-temporal nature of global environmental change.
 
 Previously, I was a data science consultant at [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis.
 
-<div class="article-style">
+<!-- <div class="article-style">
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
-</div>
+</div> -->
+
+## Upcoming activities and recent news
+
+Dec 2024: Contributed talk at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) at the University of South Australia (Mawson Lakes Campus), Australia.
