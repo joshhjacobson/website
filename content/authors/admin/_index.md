@@ -77,7 +77,7 @@ highlight_name: true
 
 I am a final-year Ph.D. candidate in the School of Mathematics and Applied Statistics at the University of Wollongong in Australia. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis focuses on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. Recent work features the estimation of natural carbon fluxes in a global Bayesian inversion framework.
 
-My research interests are primarily in spatio-temporal statistics, including methods for large datasets, data fusion, multivariate processes, uncertainty quantification, and deep spatial models, especially as applied to environmental and climate sciences. I am also interested in Bayesian inference and statistics of extremes.
+My research interests are primarily in spatio-temporal statistics, including methods for large datasets, data fusion, multivariate processes, uncertainty quantification, and deep spatial models, especially as applied to the environmental and climate sciences. I am also interested in Bayesian inference and statistics of extremes.
 
 Previously, I have also been involved as a data science consultant at [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis. I hold B.S. and M.S. degrees in applied mathematics from the University of Colorado Boulder.
 
