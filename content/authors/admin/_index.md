@@ -19,9 +19,7 @@ bio: Ph.D. Candidate in Applied Statistics.
 
 # Interests to show in About widget
 # interests:
-# - Spatial ecology
 # - Spatiotemporal statistics
-# - Forest dynamics
 
 # Education to show in About widget
 # education:
@@ -66,7 +64,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/jacobson_cv.pdf
+  link: uploads/JacobsonCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,9 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a final-year Ph.D. candidate in the School of Mathematics and Applied Statistics at the University of Wollongong in Australia. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie) and [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), my thesis focuses on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. Recent work features the estimation of natural carbon fluxes in a global Bayesian inversion framework.
+I am a final-year Ph.D. candidate in the School of Mathematics and Applied Statistics at the University of Wollongong in Australia. Supervised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie), [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), and [Michael Bertolacci](https://mbertolacci.github.io/), my thesis focuses on multivariate spatial and spatio-temporal statistical modeling with applications to large remote sensing datasets for environmental processes. My recent work involves the [estimation of natural carbon sources and sinks](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/web-projects/global-co2-flux/) in a global Bayesian inversion framework.
 
-My research interests are primarily in spatio-temporal statistics, including methods for large datasets, data fusion, multivariate processes, uncertainty quantification, and deep spatial models, especially as applied to the environmental and climate sciences. I am also interested in Bayesian inference and statistics of extremes.
+My research interests are broadly in spatio-temporal statistics, including methods for large datasets, data fusion, multivariate processes, uncertainty quantification, and deep spatial models, especially as applied to the environmental and climate sciences. I am also interested in Bayesian inference and statistics of extremes.
 
 Previously, I have also been involved as a data science consultant at [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis. I hold B.S. and M.S. degrees in applied mathematics from the University of Colorado Boulder.
 
@@ -89,9 +87,11 @@ Previously, I have also been involved as a data science consultant at [Jupiter I
 
 ### Upcoming activities and recent news
 
-- Dec 2024: Contributed talk at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) at the University of South Australia (Mawson Lakes Campus), Australia.
+- Feb 2025: Selected as a winner of the 2025 EnviBayes Student Paper Competition by the EnviBayes Section of the International Society for Bayesian Analysis.
+- Dec 2024: Selected as co-winner of [Best Student Presentation](https://isi-web.org/article/ties2024-conference-prize-winners) at [TIES 2024](https://www.isi-next.org/conferences/ties2024/).
+- Dec 2024: Contributed talk at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) at the University of South Australia (Mawson Lakes Campus), Adelaide, South Australia.
 - Oct 2024: Contributed poster at the biannual [ENVR Workshop](https://community.amstat.org/envr/events/workshops/envr2024workshop) at the NCAR Mesa Lab in Boulder, Colorado.
-- Dec 2023: Contributed talk at the [Australian Statistical Conference](https://www.asc2023.org/) (ASC) at the University of Wollongong, Australia.
+<!-- - Dec 2023: Contributed talk at the [Australian Statistical Conference](https://www.asc2023.org/) (ASC) at the University of Wollongong, New South Wales.
 - Oct 2023: Contributed talk (remote) at the NASA [OCO Science Team Meeting](https://sites.google.com/view/oco23stmoct2022/home) at the NCAR Mesa Lab in Boulder, Colorado.
 - Aug 2023: Our paper ["Spatial Statistical Prediction of Solar-Induced Chlorophyll Fluorescence (SIF) from Multivariate OCO-2 Data"](https://www.mdpi.com/2072-4292/15/16/4038) was published in _Remote Sensing_.
-- Jan 2023: Contributed talk at the [103rd Annual Meeting of the American Meteorological Society](https://annual.ametsoc.org/index.cfm/2023/) (AMS) in Denver, Colorado.
+- Jan 2023: Contributed talk at the [103rd Annual Meeting of the American Meteorological Society](https://annual.ametsoc.org/index.cfm/2023/) (AMS) in Denver, Colorado. -->
