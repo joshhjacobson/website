@@ -87,6 +87,8 @@ Previously, I have also been involved as a data science consultant at [Jupiter I
 
 ### Upcoming activities and recent news
 
+- Apr 2025: Contributed talk (online) at [BAYSM 2025](https://baysm2025.github.io/).
+- Mar 2025: Seminar at the Department of Statistics, UNSW Sydney, Australia.
 - Feb 2025: Selected as a winner of the 2025 EnviBayes Student Paper Competition by the EnviBayes Section of the International Society for Bayesian Analysis.
 - Dec 2024: Selected as co-winner of [Best Student Presentation](https://isi-web.org/article/ties2024-conference-prize-winners) at [TIES 2024](https://www.isi-next.org/conferences/ties2024/).
 - Dec 2024: Contributed talk at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) at the University of South Australia (Mawson Lakes Campus), Adelaide, South Australia.
