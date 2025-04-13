@@ -83,11 +83,12 @@ Previously, I have also been involved as a data science consultant at [Jupiter I
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 </div> -->
 
-#  
+#
 
 ### Upcoming activities and recent news
 
-- Apr 2025: Contributed talk (online) at [BAYSM 2025](https://baysm2025.github.io/).
+- Apr 2025: Awarded Best Lightning Talk at [BAYSM 2025](https://baysm2025.github.io/).
+<!-- - Apr 2025: Contributed talk (online) at [BAYSM 2025](https://baysm2025.github.io/). -->
 - Mar 2025: [Seminar](https://www.unsw.edu.au/science/our-schools/maths/engage-with-us/seminars/2025/A-Bayesian-hierarchical-model-for-CO2-flux-estimation-with-multiprocess-satellite-data) at the Department of Statistics, UNSW Sydney, Australia.
 - Feb 2025: Selected as a winner of the 2025 EnviBayes Student Paper Competition by the EnviBayes Section of the International Society for Bayesian Analysis.
 - Dec 2024: Selected as co-winner of [Best Student Presentation](https://isi-web.org/article/ties2024-conference-prize-winners) at [TIES 2024](https://www.isi-next.org/conferences/ties2024/).
