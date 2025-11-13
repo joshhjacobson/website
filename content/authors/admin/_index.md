@@ -89,7 +89,7 @@ Previously, I have also been involved as a data science consultant at [Jupiter I
 
 - Jan 2026: Joining the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder as a Visiting Assistant Professor
 - Dec 2025: Contributed talk at [ACCOMC](https://www.uow.edu.au/events/2025/atmospheric-composition-and-chemistry-observations-and-modelling-conference.php) in Wollongong, NSW, Australia
-- Nov 2025: Nominated to represent the University of Wollongong at the 2025 [JB Douglas Postgraduate Awards](https://statsoc.org.au/page-1075410)
+- Nov 2025: Selected as co-winner of the 2025 [J.B. Douglas Postgraduate Awards](https://statsoc.org.au/page-1075410) presented by The Statistical Society of Australia's NSW Branch
 - Nov 2025: Invited talk at the [Computational Statistics in Data Science Workshop](https://www.uow.edu.au/events/2025/computational-statistics-in-data-science-workshop.php) at the University of Wollongong, Australia
 - Sep 2025: Invited talk (with Michael Bertolacci) at the [NASA OCO-2/3 Science Team Meeting](https://sites.google.com/view/oco-23stmsep2025/home) in Fort Collins, Colorado (via Teams)
 - Sep 2025: Invited talk (with Andrew Zammit Mangion) at the NASA OCO-2/3 Science Team Meeting: UQ Breakout, Online
