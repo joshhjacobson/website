@@ -87,7 +87,8 @@ Outside of work, I try to enjoy all that Boulder has to offer. I like to bike, s
 
 ### Upcoming activities and recent news
 
-- Jan 2026: Joining the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder as a Visiting Assistant Professor
+- Feb 2026: Invited talk as part of NASA's OCO-2/3 Science Team Telecon Series, Online
+- Jan 2026: Joined the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder as a Visiting Assistant Professor
 - Dec 2025: Awarded Ph.D. in Statistics from the University of Wollongong
 - Dec 2025: Our paper ["WOMBAT v2.S: A Bayesian inversion framework for attributing global CO<sub>2</sub> flux components from multiprocess data"](https://onlinelibrary.wiley.com/doi/10.1002/env.70052) was published in _Environmetrics_
 - Dec 2025: Contributed talk at [ACCOMC](https://www.uow.edu.au/events/2025/atmospheric-composition-and-chemistry-observations-and-modelling-conference.php) in Wollongong, NSW, Australia
