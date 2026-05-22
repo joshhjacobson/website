@@ -73,11 +73,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a Visiting Assistant Professor in the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder. My research interests span spatio-temporal statistics and Bayesian inference, including methods for big data, data fusion, multivariate processes, and uncertainty quantification, especially as applied to the environmental and climate sciences. I am also interested in neural inference and statistics of extremes.
+I am a Visiting Assistant Professor in the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder. My research interests span spatio-temporal statistics, Bayesian inference, and deep learning. I focus on methods for big data, data fusion, multivariate processes, and uncertainty quantification, and I am especially motivated by questions in the environmental and climate sciences.
 
-I received my Ph.D. in Statistics from the University of Wollongong, where I was advised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie), [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), and [Michael Bertolacci](https://mbertolacci.github.io/). My Ph.D. featured multivariate spatial and spatio-temporal statistical modeling with a primary focus on the [estimation of natural carbon sources and sinks](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/web-projects/global-co2-flux/) in a [hierarchical Bayesian inversion framework](https://doi.org/10.1002/env.70052). I have also been affiliated with [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis.
+I received my Ph.D. in Statistics from the University of Wollongong, where I was advised by [Noel Cressie](https://scholars.uow.edu.au/display/noel_cressie), [Andrew Zammit Mangion](https://andrewzm.wordpress.com/), and [Michael Bertolacci](https://mbertolacci.github.io/). My dissertation features multivariate spatial and spatio-temporal statistical modeling with a primary focus on the [estimation of natural carbon sources and sinks](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/web-projects/global-co2-flux/) in a [hierarchical Bayesian inversion framework](https://doi.org/10.1002/env.70052). I have also been affiliated with [Jupiter Intelligence](https://jupiterintel.com/), where I developed statistical extreme-value models for climate risk analysis.
 
-Outside of work, I try to enjoy all that Boulder has to offer. I like to bike, ski, hike, and rock climb—sometimes all in one day! Please feel welcome to send me an email if you'd like to connect.
+In addition to research, I try to enjoy all that Boulder has to offer. I like to bike, ski, hike, and rock climb—sometimes all in one day! Please feel welcome to send me an email if you'd like to connect.
 
 <!-- <div class="article-style">
   <a class="btn btn-outline-primary btn-page-header" href="uploads/jacobson_cv.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
@@ -87,20 +87,26 @@ Outside of work, I try to enjoy all that Boulder has to offer. I like to bike, s
 
 ### Upcoming activities and recent news
 
-- Feb 2026: Invited talk as part of NASA's OCO-2/3 Science Team Telecon Series, Online
+- Aug 2026: Contributed talk at [JSM 2026](https://ww3.aievolution.com/JSMAnnual2026/index.cfm?do=ev.viewEv&ev=7039) in Boston, MA
+- Jun 2026: Invited Talk at the [Tjanpi Award Seminar](https://statsoc.org.au/event-6699532), Online
+- May 2026: Awarded 2025 [Tjanpi Award](https://statsoc.org.au/Tjanpi-Award-(Environmental-Statistics)) for Best Student Paper in Environmental Statistics, presented by the Environmental Section of the Statistical Society of Australia
+- May 2026: Attended the [53rd GMAC](https://gml.noaa.gov/gmac/) at the University of Colorado Boulder
+- Apr 2026: Invited Talk, MathGeo Seminar in the Department of Applied Mathematics at the University of Colorado Boulder
+- Mar 2026: Guest Lecture for Analysis of Climate and Weather Observations (GEOG 3301), led by [Bharat Rastogi](https://bharatrastogi.github.io/)
+- Feb 2026: Invited talk in NASA's OCO-2/3 Science Team Telecon Series, Online
 - Jan 2026: Joined the [Department of Applied Mathematics](https://www.colorado.edu/amath/) at the University of Colorado Boulder as a Visiting Assistant Professor
 - Dec 2025: Awarded [Ph.D. in Statistics](uploads/Jacobson_testamur_phd.pdf) from the University of Wollongong (with Examiners' Commendation for Outstanding Thesis)
 - Dec 2025: Our paper ["WOMBAT v2.S: A Bayesian inversion framework for attributing global CO<sub>2</sub> flux components from multiprocess data"](https://onlinelibrary.wiley.com/doi/10.1002/env.70052) was published in _Environmetrics_
 - Dec 2025: Contributed talk at [ACCOMC](https://www.uow.edu.au/events/2025/atmospheric-composition-and-chemistry-observations-and-modelling-conference.php) in Wollongong, NSW, Australia
 - Nov 2025: Selected as co-winner of the 2025 [J.B. Douglas Postgraduate Awards](https://statsoc.org.au/page-1075410) presented by The Statistical Society of Australia's NSW Branch
 - Nov 2025: Invited talk at the [Computational Statistics in Data Science Workshop](https://www.uow.edu.au/events/2025/computational-statistics-in-data-science-workshop.php) at the University of Wollongong, Australia
-- Sep 2025: Invited talk (with Michael Bertolacci) at the [NASA OCO-2/3 Science Team Meeting](https://sites.google.com/view/oco-23stmsep2025/home) in Fort Collins, Colorado (via Teams)
+- Sep 2025: Invited talk (with Michael Bertolacci) at the [NASA OCO-2/3 Science Team Meeting](https://sites.google.com/view/oco-23stmsep2025/home) in Fort Collins, CO (via Teams)
 - Sep 2025: Invited talk (with Andrew Zammit Mangion) at the NASA OCO-2/3 Science Team Meeting: UQ Breakout, Online
 - Apr 2025: Awarded [Best Lightning Talk](uploads/BAYSM2025_Award_ShortTalk_Jacobson.pdf) at [BAYSM 2025](https://baysm2025.github.io/)
-- Mar 2025: [Seminar](https://www.unsw.edu.au/science/our-schools/maths/engage-with-us/seminars/2025/A-Bayesian-hierarchical-model-for-CO2-flux-estimation-with-multiprocess-satellite-data) at the Department of Statistics, UNSW Sydney, Australia
-- Feb 2025: Selected as a [winner of the 2025 EnviBayes Student Paper Competition](uploads/EnviBayes_student_paper_comp_2025.pdf) by the EnviBayes Section of the International Society for Bayesian Analysis
 
-<!-- - Apr 2025: Contributed talk (online) at [BAYSM 2025](https://baysm2025.github.io/). -->
+
+<!-- - Mar 2025: [Seminar](https://www.unsw.edu.au/science/our-schools/maths/engage-with-us/seminars/2025/A-Bayesian-hierarchical-model-for-CO2-flux-estimation-with-multiprocess-satellite-data) in the Department of Statistics, UNSW Sydney, Australia -->
+<!-- - Feb 2025: Selected as a [winner of the 2025 EnviBayes Student Paper Competition](uploads/EnviBayes_student_paper_comp_2025.pdf) by the EnviBayes Section of the International Society for Bayesian Analysis -->
 
 <!-- - Dec 2024: Selected as co-winner of [Best Student Presentation](https://isi-web.org/article/ties2024-conference-prize-winners) at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) -->
 <!-- - Dec 2024: Contributed talk at [TIES 2024](https://www.isi-next.org/conferences/ties2024/) at the University of South Australia (Mawson Lakes Campus), Adelaide, South Australia -->
